@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MovieGalleryAPI/MovieGalleryAPI.csproj" />
+  <Project Path="MovieGalleryAPITests/MovieGalleryAPITests.csproj" Id="31dde4f0-0f92-4750-a18f-ca5c76ba8052" />
+</Solution>
